@@ -1,11 +1,11 @@
 <div align="center">
   <h1>
   <a href="https://capsule-render.vercel.app/docs">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80§ion=header&text=Hi%20there%2C%20I'm%20ctag!&fontSize=40&fontAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6f206f&height=80%C2%A7ion=header&text=Hi%20there%2C%20I%27m%20ctag!&fontSize=40&fontAlign=50" />
   </a>
 </h1>
 <h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=F7F7F7%C2%A2er=true&vCenter=true&width=700&lines=A+developer+passionate+about+Math+And+Machine+Learning;A+Computational+Mathematics+Student;Building%20tools%20with%20Go%20and%20Python,%20Graphics%20programming%20with%20C#;Always+learning%2C+always+building." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=740&lines=A+developer+passionate+about+Mathematics+and+Machine+Learning;A+Computational+Mathematics+Student;Making+tools+with+C%23%2C+Go%2C+Python%2C+and+more;Always+learning%2C+always+building" alt="Typing SVG" /></a>
 </h3>
   <p>
     <a href="https://ko-fi.com/ctag07">
