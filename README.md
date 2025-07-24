@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
   <a href="https://capsule-render.vercel.app/docs">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6f206f&height=80%C2%A7ion=header&text=Hi%20there%2C%20I%27m%20ctag!&fontSize=40&fontAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6e20bd,100:203fbd&text=Hi%20there,%20I'm%20ctag!&reversal=false&fontAlignY=38&fontColor=FFFFFF" />
   </a>
 </h1>
 <h3>
