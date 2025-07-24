@@ -56,5 +56,5 @@
 <h2 align="center">GitHub Stats & Activity</h2>
 
 <p align="center">
-  <img src="metrics.svg" alt="Metrics" style="width: 100%;">
+  <img src="github-metrics.svg" alt="Metrics" style="width: 100%;">
 </p>
