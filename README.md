@@ -59,10 +59,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="metrics.activity.svg" alt="GitHub Activity Metrics">
+      <img src="metrics.stats.svg" alt="GitHub Stats Metrics">
     </td>
     <td valign="top" width="50%">
-      <img src="metrics.stats.svg" alt="GitHub Stats Metrics">
+      <img src="metrics.activity.svg" alt="GitHub Activity Metrics">
     </td>
   </tr>
 </table>
