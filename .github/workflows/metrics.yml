@@ -15,26 +15,22 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: CTAG07
 
-          # Core settings
           template: modern
           config_timezone: America/New_York
-          filter: all # Includes private, forked, and archived repos as you wanted
+          
+          repositories_forks: yes
+          repositories_affiliations: owner, collaborator
 
           # --- PLUGINS ---
-          
-          # Base display: shows header, commit activity, and community stats
           base: header, activity, community, repositories, metadata
 
-          # Isocalendar: a compact view of your contribution history
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Lines of code: a great stat that will update automatically
           plugin_lines: yes
 
-          # Habits: a fun, dynamic chart about your coding schedule
           plugin_habits: yes
-          plugin_habits_from: 1000      # Analyze last 1000 commits for stability
-          plugin_habits_days: 14        # Focus on recent habits (last 2 weeks)
-          plugin_habits_charts: week, a.m./p.m. # Show day-of-week and morning/afternoon charts
-          plugin_habits_trim: yes       # Hide days/times with no activity for a cleaner look
+          plugin_habits_from: 1000
+          plugin_habits_days: 14
+          plugin_habits_charts: week, a.m./p.m.
+          plugin_habits_trim: yes
