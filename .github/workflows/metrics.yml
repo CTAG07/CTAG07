@@ -36,6 +36,3 @@ jobs:
           filename: metrics.stats.svg
           
           base: header, community
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_charts: week, a.m./p.m.
