@@ -5,7 +5,7 @@
 Computational Mathematics Student // Machine Learning Enthusiast // Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6e20bd?style=for-the-badge&logo=safari&logoColor=white)](https://geisinger.dev)
-[![Ko-fi](https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ctag07)
+[![Ko-fi](https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/amenyxia)
 
 </div>
 
